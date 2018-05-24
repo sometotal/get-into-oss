@@ -1,6 +1,10 @@
 # get-into-oss
 Get Into Open Source!
 
+## My Slides
+
+- https://www.slideshare.net/joesepi/get-into-open-source
+
 ## Links/Resources in the order that they appeared in my talk
 
 - https://developer.ibm.com/code
