@@ -26,3 +26,8 @@ Get Into Open Source!
 - https://github.com/github/hub
 - https://www.henryzoo.com/blog/2018/03/02/in-pursuit-of-open-source-part-1.html
 
+## The Bands :)
+
+- [Least Best Beast](http://leastbestbeast.com)
+- [Mustard Tiger](http://mustardtiger.rocks)
+- Ketchup Kill Cult is not real
