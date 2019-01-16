@@ -25,6 +25,7 @@ Get Into Open Source!
 - https://medium.com/the-node-js-collection/node-js-core-values-ab5387c4fd49
 - https://github.com/github/hub
 - https://www.henryzoo.com/blog/2018/03/02/in-pursuit-of-open-source-part-1.html
+- https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl?hl=en
 
 ## The Bands :)
 
